@@ -1,4 +1,4 @@
-package com.designpattern.main.controller;
+package com.designpattern.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
